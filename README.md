@@ -7,7 +7,7 @@ This repository is for SQL excercises done by me while learning SQL on various p
 List of course:
 1. **Learn SQL** -- on [codecademy.com](https://www.codecademy.com/learn/learn-sql)   
 2. **SQL exercises** -- on [sql-ex.ru](https://www.sql-ex.ru/?Lang=1)    
-3. **SQL course** -- on [stepik.org](https://stepik.org/course/63054/syllabus)    
+3. **SQL course** -- on [stepik.org](https://stepik.org/course/63054/syllabus). **NB!** *The course is in Russian*.
 
 
 It's extremely important to write a readable code.  
