@@ -2,12 +2,13 @@ Hi there!
 
 
 I'm learning to code, interested in data analytics and data science, aiming to be hired by mid of 2021.  
-This repository is for SQL excercises done by me while learning SQL on various platforms and courses.  
+This repository is for SQL exercises done by me while learning SQL on various platforms and courses.  
 
 List of course:
 1. **Learn SQL** -- on [codecademy.com](https://www.codecademy.com/learn/learn-sql)   
 2. **SQL exercises** -- on [sql-ex.ru](https://www.sql-ex.ru/?Lang=1)    
 3. **SQL course** -- on [stepik.org](https://stepik.org/course/63054/syllabus). **NB!** *The course is in Russian*.
+4. **SQL data analysis course** -- data analysis course by [karpov.courses](https://karpov.courses/)
 
 
 It's extremely important to write a readable code.  
