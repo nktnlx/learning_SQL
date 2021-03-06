@@ -9,6 +9,7 @@ List of course:
 2. **SQL exercises** -- on [sql-ex.ru](https://www.sql-ex.ru/?Lang=1)    
 3. **SQL course** -- on [stepik.org](https://stepik.org/course/63054/syllabus). **NB!** *The course is in Russian*.
 4. **SQL data analysis course** -- data analysis course by [karpov.courses](https://karpov.courses/)
+5. **SQL module** -- from data analyst course by [Yandex Praktikum](https://praktikum.yandex.ru/data-analyst/)
 
 
 It's extremely important to write a readable code.  
