@@ -10,6 +10,7 @@ List of course:
 3. **SQL course** -- on [stepik.org](https://stepik.org/course/63054/syllabus). **NB!** *The course is in Russian*.
 4. **SQL data analysis course** -- data analysis course by [karpov.courses](https://karpov.courses/)
 5. **SQL module** -- from data analyst course by [Yandex Praktikum](https://praktikum.yandex.ru/data-analyst/)
+6. **SQL Bolt** -- a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser. [SQL Bolt](https://sqlbolt.com/)
 
 
 It's extremely important to write a readable code.  
@@ -23,6 +24,6 @@ Hope this repo will help you to assess my SQL skills or will be just fun for you
 
 
 --------------------------------------------
-Fill free to contact me via nktn.lx@gmal.com  
+Fell free to contact me via nktn.lx@gmal.com  
 Follow me on twitter: @nktn_lx  
 And here on github: github.com/nktnlx  
